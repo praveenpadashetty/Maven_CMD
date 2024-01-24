@@ -12,7 +12,7 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
-    @Test
+    @org.testng.annotations.Test
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
